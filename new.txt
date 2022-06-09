@@ -2,3 +2,6 @@ Today we will learn:
 1. Merger
 2. Branch
 3. Git conflict
+
+git conflict - is the issue occur when local and remote code are not in sync. so always we should pull code before push to remote branch
+

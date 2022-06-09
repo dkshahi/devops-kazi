@@ -5,3 +5,5 @@ Today we will learn:
 
 git conflict - is the issue occur when local and remote code are not in sync. so always we should pull code before push to remote branch
 
+Hi team how trainign is goin on 
+

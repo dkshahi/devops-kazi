@@ -1,0 +1,4 @@
+Today we will learn:
+1. Merger
+2. Branch
+3. Git conflict
